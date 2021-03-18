@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="container">
-    <h1>Laravel 8 Ajax Request example</h1>
+    <h1>Difference Calculator</h1>
     <form action="/differenceCalculatorPost" method="POST">
         @csrf
         <div class="form-group">
